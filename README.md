@@ -4,7 +4,7 @@
 
 An end-to-end analytics project that turns raw retail transaction data into actionable business insights: from data cleaning and feature engineering in Python, to structured analysis in SQL, to an interactive Power BI dashboard for decision-makers.
 
-![Dashboard Preview](images/dashboard.png)
+
 
 ---
 
