@@ -172,7 +172,6 @@ Ten business questions were answered in PostgreSQL:
 - **Young Adults generate the most revenue** of the four age groups, while order volume is fairly evenly spread across groups.
 - Average **review rating is 3.75**, suggesting moderate satisfaction with room to improve.
 
-> 📝 Add findings from your SQL outputs here (gender revenue split, subscriber vs. non-subscriber spend, discount-heavy products, loyalty segment counts, subscription rate among repeat buyers).
 
 ---
 
