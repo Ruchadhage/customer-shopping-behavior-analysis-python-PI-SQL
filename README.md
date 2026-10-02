@@ -49,12 +49,12 @@ As the analyst, the task is to analyze the company's consumer behavior dataset t
 
 ## 📦 Deliverables
 
-| # | Deliverable | Status / Location |
+| # | Deliverable 
 |---|---|---|
-| 1 | **Data Preparation & Modeling (Python):** clean and transform the raw dataset | [`notebooks/`](notebooks/) |
-| 2 | **Data Analysis (SQL):** structure data in PostgreSQL and run queries on segments, loyalty, and purchase drivers | [`sql/`](sql/) |
-| 3 | **Visualization & Insights (Power BI):** interactive dashboard | [`dashboard/`](dashboard/) |
-| 4 | **Report & Presentation:** findings and business recommendations | [`reports/`](reports/) |
+| 1 | **Data Preparation & Modeling (Python):** clean and transform the raw dataset 
+| 2 | **Data Analysis (SQL):** structure data in PostgreSQL and run queries on segments, loyalty, and purchase drivers 
+| 3 | **Visualization & Insights (Power BI):** interactive dashboard 
+| 4 | **Report & Presentation:** findings and business recommendations
 
 ---
 
