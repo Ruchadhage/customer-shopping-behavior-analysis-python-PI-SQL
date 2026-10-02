@@ -146,7 +146,6 @@ Ten business questions were answered in PostgreSQL:
 | Returning | 2 to 10 previous purchases |
 | Loyal | More than 10 previous purchases |
 
-Full queries: [`sql/business_queries.sql`](sql/business_queries.sql)
 
 ---
 
